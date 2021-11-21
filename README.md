@@ -3,8 +3,8 @@
 <p align="center">把单词变成屏幕上的弹幕来帮助你记住单词</p>
 
 
-![Screenshot02](screenshot02.png)
-![Screenshot01](screenshot01.png)
+![Screenshot02](https://github.com/daiguoxi/DMWords/blob/main/Screenshot02.png)
+![Screenshot01](https://github.com/daiguoxi/DMWords/blob/main/Screenshot01.png)
 
 ## 介绍
 
